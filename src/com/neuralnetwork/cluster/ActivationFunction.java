@@ -1,4 +1,4 @@
-package com.neuralnetwork.backprop;
+package com.neuralnetwork.cluster;
 
 public class ActivationFunction {
 	private ActivationFunction() {

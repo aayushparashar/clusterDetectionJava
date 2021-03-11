@@ -1,4 +1,4 @@
-package com.neuralnetwork.backprop;
+package com.neuralnetwork.cluster;
 
 import java.util.Arrays;
 
